@@ -1,0 +1,62 @@
+{
+  "Old Testament": [
+    {
+      "Book": "Genesis",
+      "Chapters": [
+        {
+          "Chapter": 1,
+          "Verses": [
+            {
+              "Verse": 1,
+              "Text": "In the beginning, God created the heavens and the earth."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Book": "Exodus",
+      "Chapters": [
+        {
+          "Chapter": 20,
+          "Verses": [
+            {
+              "Verse": 1,
+              "Text": "And God spoke all these words:"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "New Testament": [
+    {
+      "Book": "Matthew",
+      "Chapters": [
+        {
+          "Chapter": 5,
+          "Verses": [
+            {
+              "Verse": 3,
+              "Text": "Blessed are the poor in spirit, for theirs is the kingdom of heaven."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Book": "John",
+      "Chapters": [
+        {
+          "Chapter": 3,
+          "Verses": [
+            {
+              "Verse": 16,
+              "Text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
